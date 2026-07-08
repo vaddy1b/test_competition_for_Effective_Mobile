@@ -13,4 +13,4 @@
 
 ---
 
-![Схема работы приложения](/image/Markdown-mark.svg "This is a sample image.")
+![Схема работы приложения](/images/2026-07-08_02-10-29.png)
